@@ -47,7 +47,6 @@ YouTube_Page_Clone/
     │   ├── logo.png               # YouTube logo or app branding image
     │   ├── thumbnail1.jpg         # Sample video thumbnail image
     │   └── thumbnail2.jpg         # Another sample video thumbnail image
-└── mock-data.json                 # Mock data for video titles, descriptions, and thumbnails
 ```
 
 ---
